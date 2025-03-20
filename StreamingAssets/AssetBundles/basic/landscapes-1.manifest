@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2899730071
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 388121bb9614cf09a89c9d1f27198de0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 388121bb9614cf09a89c9d1f27198de0
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Levels/Basic/Landscapes1/Level001.json
+- Assets/Levels/Basic/Landscapes1/Level002.json
+- Assets/Levels/Basic/Landscapes1/Level011.json
+- Assets/Levels/Basic/Landscapes1/Image007.bytes
+- Assets/Levels/Basic/Landscapes1/Level013.json
+- Assets/Levels/Basic/Landscapes1/Image013.bytes
+- Assets/Levels/Basic/Landscapes1/Level019.json
+- Assets/Levels/Basic/Landscapes1/Image008.bytes
+- Assets/Levels/Basic/Landscapes1/Image004.bytes
+- Assets/Levels/Basic/Landscapes1/Image010.bytes
+- Assets/Levels/Basic/Landscapes1/Image006.bytes
+- Assets/Levels/Basic/Landscapes1/Level004.json
+- Assets/Levels/Basic/Landscapes1/Image023.bytes
+- Assets/Levels/Basic/Landscapes1/Level005.json
+- Assets/Levels/Basic/Landscapes1/Image014.bytes
+- Assets/Levels/Basic/Landscapes1/Level022.json
+- Assets/Levels/Basic/Landscapes1/Level010.json
+- Assets/Levels/Basic/Landscapes1/Image017.bytes
+- Assets/Levels/Basic/Landscapes1/Image005.bytes
+- Assets/Levels/Basic/Landscapes1/Image001.bytes
+- Assets/Levels/Basic/Landscapes1/Level021.json
+- Assets/Levels/Basic/Landscapes1/Image016.bytes
+- Assets/Levels/Basic/Landscapes1/Image024.bytes
+- Assets/Levels/Basic/Landscapes1/Level017.json
+- Assets/Levels/Basic/Landscapes1/Image020.bytes
+- Assets/Levels/Basic/Landscapes1/Image018.bytes
+- Assets/Levels/Basic/Landscapes1/Image022.bytes
+- Assets/Levels/Basic/Landscapes1/Level012.json
+- Assets/Levels/Basic/Landscapes1/Level024.json
+- Assets/Levels/Basic/Landscapes1/Level018.json
+- Assets/Levels/Basic/Landscapes1/Level025.json
+- Assets/Levels/Basic/Landscapes1/Level009.json
+- Assets/Levels/Basic/Landscapes1/Image015.bytes
+- Assets/Levels/Basic/Landscapes1/Image012.bytes
+- Assets/Levels/Basic/Landscapes1/Image011.bytes
+- Assets/Levels/Basic/Landscapes1/Image002.bytes
+- Assets/Levels/Basic/Landscapes1/Level003.json
+- Assets/Levels/Basic/Landscapes1/Level008.json
+- Assets/Levels/Basic/Landscapes1/Image021.bytes
+- Assets/Levels/Basic/Landscapes1/Level020.json
+- Assets/Levels/Basic/Landscapes1/Image003.bytes
+- Assets/Levels/Basic/Landscapes1/Level023.json
+- Assets/Levels/Basic/Landscapes1/Level014.json
+- Assets/Levels/Basic/Landscapes1/Level006.json
+- Assets/Levels/Basic/Landscapes1/Level016.json
+- Assets/Levels/Basic/Landscapes1/Image025.bytes
+- Assets/Levels/Basic/Landscapes1/Level015.json
+- Assets/Levels/Basic/Landscapes1/Image009.bytes
+- Assets/Levels/Basic/Landscapes1/Image019.bytes
+- Assets/Levels/Basic/Landscapes1/Level007.json
+Dependencies: []

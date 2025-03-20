@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4270765206
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: getting-started
+      Dependencies: {}
+    Info_1:
+      Name: pets-1
+      Dependencies: {}
+    Info_2:
+      Name: landmarks-1
+      Dependencies: {}
+    Info_3:
+      Name: pets-2
+      Dependencies: {}
+    Info_4:
+      Name: landscapes-1
+      Dependencies: {}
+    Info_5:
+      Name: landmarks-2
+      Dependencies: {}
+    Info_6:
+      Name: wildlife-1
+      Dependencies: {}
+    Info_7:
+      Name: candy-1
+      Dependencies: {}
+    Info_8:
+      Name: landscapes-2
+      Dependencies: {}
+    Info_9:
+      Name: wildlife-2
+      Dependencies: {}

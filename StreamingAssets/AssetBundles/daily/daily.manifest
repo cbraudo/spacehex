@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2468482049
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bronze
+      Dependencies: {}
+    Info_1:
+      Name: silver
+      Dependencies: {}
+    Info_2:
+      Name: gold
+      Dependencies: {}

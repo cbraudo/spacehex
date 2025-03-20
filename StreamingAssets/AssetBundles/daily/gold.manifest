@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 3667842399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d6a61fff6abbfde103bcec8e7290e98
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 1d6a61fff6abbfde103bcec8e7290e98
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Levels/Daily/Gold/Image027.bytes
+- Assets/Levels/Daily/Gold/Image044.bytes
+- Assets/Levels/Daily/Gold/Level024.json
+- Assets/Levels/Daily/Gold/Image026.bytes
+- Assets/Levels/Daily/Gold/Image045.bytes
+- Assets/Levels/Daily/Gold/Level032.json
+- Assets/Levels/Daily/Gold/Image004.bytes
+- Assets/Levels/Daily/Gold/Image010.bytes
+- Assets/Levels/Daily/Gold/Image017.bytes
+- Assets/Levels/Daily/Gold/Level020.json
+- Assets/Levels/Daily/Gold/Image049.bytes
+- Assets/Levels/Daily/Gold/Level043.json
+- Assets/Levels/Daily/Gold/Level028.json
+- Assets/Levels/Daily/Gold/Image036.bytes
+- Assets/Levels/Daily/Gold/Level009.json
+- Assets/Levels/Daily/Gold/Level017.json
+- Assets/Levels/Daily/Gold/Image042.bytes
+- Assets/Levels/Daily/Gold/Level019.json
+- Assets/Levels/Daily/Gold/Image034.bytes
+- Assets/Levels/Daily/Gold/Image043.bytes
+- Assets/Levels/Daily/Gold/Image033.bytes
+- Assets/Levels/Daily/Gold/Level048.json
+- Assets/Levels/Daily/Gold/Image041.bytes
+- Assets/Levels/Daily/Gold/Image037.bytes
+- Assets/Levels/Daily/Gold/Level012.json
+- Assets/Levels/Daily/Gold/Image029.bytes
+- Assets/Levels/Daily/Gold/Level025.json
+- Assets/Levels/Daily/Gold/Image002.bytes
+- Assets/Levels/Daily/Gold/Level037.json
+- Assets/Levels/Daily/Gold/Image040.bytes
+- Assets/Levels/Daily/Gold/Level029.json
+- Assets/Levels/Daily/Gold/Level045.json
+- Assets/Levels/Daily/Gold/Image038.bytes
+- Assets/Levels/Daily/Gold/Level046.json
+- Assets/Levels/Daily/Gold/Image009.bytes
+- Assets/Levels/Daily/Gold/Level010.json
+- Assets/Levels/Daily/Gold/Level001.json
+- Assets/Levels/Daily/Gold/Image001.bytes
+- Assets/Levels/Daily/Gold/Level049.json
+- Assets/Levels/Daily/Gold/Level034.json
+- Assets/Levels/Daily/Gold/Image015.bytes
+- Assets/Levels/Daily/Gold/Image012.bytes
+- Assets/Levels/Daily/Gold/Image018.bytes
+- Assets/Levels/Daily/Gold/Level013.json
+- Assets/Levels/Daily/Gold/Image008.bytes
+- Assets/Levels/Daily/Gold/Level003.json
+- Assets/Levels/Daily/Gold/Level011.json
+- Assets/Levels/Daily/Gold/Image019.bytes
+- Assets/Levels/Daily/Gold/Image046.bytes
+- Assets/Levels/Daily/Gold/Image039.bytes
+- Assets/Levels/Daily/Gold/Image003.bytes
+- Assets/Levels/Daily/Gold/Image011.bytes
+- Assets/Levels/Daily/Gold/Image047.bytes
+- Assets/Levels/Daily/Gold/Level006.json
+- Assets/Levels/Daily/Gold/Level026.json
+- Assets/Levels/Daily/Gold/Level015.json
+- Assets/Levels/Daily/Gold/Image023.bytes
+- Assets/Levels/Daily/Gold/Level027.json
+- Assets/Levels/Daily/Gold/Level022.json
+- Assets/Levels/Daily/Gold/Image035.bytes
+- Assets/Levels/Daily/Gold/Level030.json
+- Assets/Levels/Daily/Gold/Image016.bytes
+- Assets/Levels/Daily/Gold/Level036.json
+- Assets/Levels/Daily/Gold/Level041.json
+- Assets/Levels/Daily/Gold/Image024.bytes
+- Assets/Levels/Daily/Gold/Image028.bytes
+- Assets/Levels/Daily/Gold/Image031.bytes
+- Assets/Levels/Daily/Gold/Level038.json
+- Assets/Levels/Daily/Gold/Image030.bytes
+- Assets/Levels/Daily/Gold/Level039.json
+- Assets/Levels/Daily/Gold/Level018.json
+- Assets/Levels/Daily/Gold/Level040.json
+- Assets/Levels/Daily/Gold/Level047.json
+- Assets/Levels/Daily/Gold/Image050.bytes
+- Assets/Levels/Daily/Gold/Level050.json
+- Assets/Levels/Daily/Gold/Image006.bytes
+- Assets/Levels/Daily/Gold/Image020.bytes
+- Assets/Levels/Daily/Gold/Image022.bytes
+- Assets/Levels/Daily/Gold/Image025.bytes
+- Assets/Levels/Daily/Gold/Image048.bytes
+- Assets/Levels/Daily/Gold/Image013.bytes
+- Assets/Levels/Daily/Gold/Level007.json
+- Assets/Levels/Daily/Gold/Level014.json
+- Assets/Levels/Daily/Gold/Level016.json
+- Assets/Levels/Daily/Gold/Level044.json
+- Assets/Levels/Daily/Gold/Level002.json
+- Assets/Levels/Daily/Gold/Image032.bytes
+- Assets/Levels/Daily/Gold/Image005.bytes
+- Assets/Levels/Daily/Gold/Image021.bytes
+- Assets/Levels/Daily/Gold/Level004.json
+- Assets/Levels/Daily/Gold/Level021.json
+- Assets/Levels/Daily/Gold/Level033.json
+- Assets/Levels/Daily/Gold/Level005.json
+- Assets/Levels/Daily/Gold/Image014.bytes
+- Assets/Levels/Daily/Gold/Level031.json
+- Assets/Levels/Daily/Gold/Level035.json
+- Assets/Levels/Daily/Gold/Level042.json
+- Assets/Levels/Daily/Gold/Level023.json
+- Assets/Levels/Daily/Gold/Image007.bytes
+- Assets/Levels/Daily/Gold/Level008.json
+Dependencies: []

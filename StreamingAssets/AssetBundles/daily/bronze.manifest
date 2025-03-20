@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 1049557486
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0fc202417553b504231d71f080a0857
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a0fc202417553b504231d71f080a0857
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Levels/Daily/Bronze/Level036.json
+- Assets/Levels/Daily/Bronze/Level022.json
+- Assets/Levels/Daily/Bronze/Level010.json
+- Assets/Levels/Daily/Bronze/Level005.json
+- Assets/Levels/Daily/Bronze/Image043.bytes
+- Assets/Levels/Daily/Bronze/Level009.json
+- Assets/Levels/Daily/Bronze/Image002.bytes
+- Assets/Levels/Daily/Bronze/Level029.json
+- Assets/Levels/Daily/Bronze/Image007.bytes
+- Assets/Levels/Daily/Bronze/Level042.json
+- Assets/Levels/Daily/Bronze/Image035.bytes
+- Assets/Levels/Daily/Bronze/Image039.bytes
+- Assets/Levels/Daily/Bronze/Level001.json
+- Assets/Levels/Daily/Bronze/Level011.json
+- Assets/Levels/Daily/Bronze/Image033.bytes
+- Assets/Levels/Daily/Bronze/Image014.bytes
+- Assets/Levels/Daily/Bronze/Image046.bytes
+- Assets/Levels/Daily/Bronze/Level045.json
+- Assets/Levels/Daily/Bronze/Level031.json
+- Assets/Levels/Daily/Bronze/Image044.bytes
+- Assets/Levels/Daily/Bronze/Level012.json
+- Assets/Levels/Daily/Bronze/Level049.json
+- Assets/Levels/Daily/Bronze/Image018.bytes
+- Assets/Levels/Daily/Bronze/Level046.json
+- Assets/Levels/Daily/Bronze/Image009.bytes
+- Assets/Levels/Daily/Bronze/Image031.bytes
+- Assets/Levels/Daily/Bronze/Image013.bytes
+- Assets/Levels/Daily/Bronze/Level013.json
+- Assets/Levels/Daily/Bronze/Level020.json
+- Assets/Levels/Daily/Bronze/Level019.json
+- Assets/Levels/Daily/Bronze/Level014.json
+- Assets/Levels/Daily/Bronze/Image041.bytes
+- Assets/Levels/Daily/Bronze/Image011.bytes
+- Assets/Levels/Daily/Bronze/Image010.bytes
+- Assets/Levels/Daily/Bronze/Image034.bytes
+- Assets/Levels/Daily/Bronze/Image048.bytes
+- Assets/Levels/Daily/Bronze/Image012.bytes
+- Assets/Levels/Daily/Bronze/Image008.bytes
+- Assets/Levels/Daily/Bronze/Level038.json
+- Assets/Levels/Daily/Bronze/Image001.bytes
+- Assets/Levels/Daily/Bronze/Level044.json
+- Assets/Levels/Daily/Bronze/Level047.json
+- Assets/Levels/Daily/Bronze/Image042.bytes
+- Assets/Levels/Daily/Bronze/Image024.bytes
+- Assets/Levels/Daily/Bronze/Level017.json
+- Assets/Levels/Daily/Bronze/Level018.json
+- Assets/Levels/Daily/Bronze/Image016.bytes
+- Assets/Levels/Daily/Bronze/Level003.json
+- Assets/Levels/Daily/Bronze/Level034.json
+- Assets/Levels/Daily/Bronze/Level006.json
+- Assets/Levels/Daily/Bronze/Level027.json
+- Assets/Levels/Daily/Bronze/Image020.bytes
+- Assets/Levels/Daily/Bronze/Level035.json
+- Assets/Levels/Daily/Bronze/Level050.json
+- Assets/Levels/Daily/Bronze/Image050.bytes
+- Assets/Levels/Daily/Bronze/Level039.json
+- Assets/Levels/Daily/Bronze/Image022.bytes
+- Assets/Levels/Daily/Bronze/Image026.bytes
+- Assets/Levels/Daily/Bronze/Image004.bytes
+- Assets/Levels/Daily/Bronze/Level002.json
+- Assets/Levels/Daily/Bronze/Image019.bytes
+- Assets/Levels/Daily/Bronze/Image040.bytes
+- Assets/Levels/Daily/Bronze/Level007.json
+- Assets/Levels/Daily/Bronze/Level024.json
+- Assets/Levels/Daily/Bronze/Image032.bytes
+- Assets/Levels/Daily/Bronze/Level030.json
+- Assets/Levels/Daily/Bronze/Image028.bytes
+- Assets/Levels/Daily/Bronze/Image015.bytes
+- Assets/Levels/Daily/Bronze/Level037.json
+- Assets/Levels/Daily/Bronze/Image038.bytes
+- Assets/Levels/Daily/Bronze/Image047.bytes
+- Assets/Levels/Daily/Bronze/Level040.json
+- Assets/Levels/Daily/Bronze/Level048.json
+- Assets/Levels/Daily/Bronze/Level023.json
+- Assets/Levels/Daily/Bronze/Image025.bytes
+- Assets/Levels/Daily/Bronze/Image037.bytes
+- Assets/Levels/Daily/Bronze/Level025.json
+- Assets/Levels/Daily/Bronze/Level008.json
+- Assets/Levels/Daily/Bronze/Image027.bytes
+- Assets/Levels/Daily/Bronze/Image021.bytes
+- Assets/Levels/Daily/Bronze/Image003.bytes
+- Assets/Levels/Daily/Bronze/Image029.bytes
+- Assets/Levels/Daily/Bronze/Level026.json
+- Assets/Levels/Daily/Bronze/Level032.json
+- Assets/Levels/Daily/Bronze/Image017.bytes
+- Assets/Levels/Daily/Bronze/Image006.bytes
+- Assets/Levels/Daily/Bronze/Level021.json
+- Assets/Levels/Daily/Bronze/Level043.json
+- Assets/Levels/Daily/Bronze/Image030.bytes
+- Assets/Levels/Daily/Bronze/Image045.bytes
+- Assets/Levels/Daily/Bronze/Image049.bytes
+- Assets/Levels/Daily/Bronze/Level028.json
+- Assets/Levels/Daily/Bronze/Image036.bytes
+- Assets/Levels/Daily/Bronze/Level016.json
+- Assets/Levels/Daily/Bronze/Level033.json
+- Assets/Levels/Daily/Bronze/Level004.json
+- Assets/Levels/Daily/Bronze/Level015.json
+- Assets/Levels/Daily/Bronze/Image005.bytes
+- Assets/Levels/Daily/Bronze/Level041.json
+- Assets/Levels/Daily/Bronze/Image023.bytes
+Dependencies: []

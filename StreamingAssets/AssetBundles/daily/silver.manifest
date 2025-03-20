@@ -1,0 +1,119 @@
+ManifestFileVersion: 0
+CRC: 3263113869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 063a21c611edacf12b8a08742626ecc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 063a21c611edacf12b8a08742626ecc1
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Levels/Daily/Silver/Image043.bytes
+- Assets/Levels/Daily/Silver/Image040.bytes
+- Assets/Levels/Daily/Silver/Image015.bytes
+- Assets/Levels/Daily/Silver/Level028.json
+- Assets/Levels/Daily/Silver/Level003.json
+- Assets/Levels/Daily/Silver/Level021.json
+- Assets/Levels/Daily/Silver/Image041.bytes
+- Assets/Levels/Daily/Silver/Level001.json
+- Assets/Levels/Daily/Silver/Image007.bytes
+- Assets/Levels/Daily/Silver/Image014.bytes
+- Assets/Levels/Daily/Silver/Level008.json
+- Assets/Levels/Daily/Silver/Image047.bytes
+- Assets/Levels/Daily/Silver/Level011.json
+- Assets/Levels/Daily/Silver/Image004.bytes
+- Assets/Levels/Daily/Silver/Level019.json
+- Assets/Levels/Daily/Silver/Image031.bytes
+- Assets/Levels/Daily/Silver/Level002.json
+- Assets/Levels/Daily/Silver/Level005.json
+- Assets/Levels/Daily/Silver/Level017.json
+- Assets/Levels/Daily/Silver/Level033.json
+- Assets/Levels/Daily/Silver/Level022.json
+- Assets/Levels/Daily/Silver/Level043.json
+- Assets/Levels/Daily/Silver/Level046.json
+- Assets/Levels/Daily/Silver/Level034.json
+- Assets/Levels/Daily/Silver/Level027.json
+- Assets/Levels/Daily/Silver/Image021.bytes
+- Assets/Levels/Daily/Silver/Level029.json
+- Assets/Levels/Daily/Silver/Level037.json
+- Assets/Levels/Daily/Silver/Image046.bytes
+- Assets/Levels/Daily/Silver/Level012.json
+- Assets/Levels/Daily/Silver/Image039.bytes
+- Assets/Levels/Daily/Silver/Image033.bytes
+- Assets/Levels/Daily/Silver/Level009.json
+- Assets/Levels/Daily/Silver/Level025.json
+- Assets/Levels/Daily/Silver/Level047.json
+- Assets/Levels/Daily/Silver/Level031.json
+- Assets/Levels/Daily/Silver/Image045.bytes
+- Assets/Levels/Daily/Silver/Image030.bytes
+- Assets/Levels/Daily/Silver/Image024.bytes
+- Assets/Levels/Daily/Silver/Image027.bytes
+- Assets/Levels/Daily/Silver/Level048.json
+- Assets/Levels/Daily/Silver/Image038.bytes
+- Assets/Levels/Daily/Silver/Image011.bytes
+- Assets/Levels/Daily/Silver/Image001.bytes
+- Assets/Levels/Daily/Silver/Image042.bytes
+- Assets/Levels/Daily/Silver/Image006.bytes
+- Assets/Levels/Daily/Silver/Level050.json
+- Assets/Levels/Daily/Silver/Level026.json
+- Assets/Levels/Daily/Silver/Level042.json
+- Assets/Levels/Daily/Silver/Image019.bytes
+- Assets/Levels/Daily/Silver/Level004.json
+- Assets/Levels/Daily/Silver/Image028.bytes
+- Assets/Levels/Daily/Silver/Image003.bytes
+- Assets/Levels/Daily/Silver/Image005.bytes
+- Assets/Levels/Daily/Silver/Image010.bytes
+- Assets/Levels/Daily/Silver/Image029.bytes
+- Assets/Levels/Daily/Silver/Image049.bytes
+- Assets/Levels/Daily/Silver/Image025.bytes
+- Assets/Levels/Daily/Silver/Level023.json
+- Assets/Levels/Daily/Silver/Level040.json
+- Assets/Levels/Daily/Silver/Level006.json
+- Assets/Levels/Daily/Silver/Level016.json
+- Assets/Levels/Daily/Silver/Image017.bytes
+- Assets/Levels/Daily/Silver/Image016.bytes
+- Assets/Levels/Daily/Silver/Image012.bytes
+- Assets/Levels/Daily/Silver/Level032.json
+- Assets/Levels/Daily/Silver/Image035.bytes
+- Assets/Levels/Daily/Silver/Level036.json
+- Assets/Levels/Daily/Silver/Level015.json
+- Assets/Levels/Daily/Silver/Level039.json
+- Assets/Levels/Daily/Silver/Level038.json
+- Assets/Levels/Daily/Silver/Image013.bytes
+- Assets/Levels/Daily/Silver/Image050.bytes
+- Assets/Levels/Daily/Silver/Image036.bytes
+- Assets/Levels/Daily/Silver/Image026.bytes
+- Assets/Levels/Daily/Silver/Image048.bytes
+- Assets/Levels/Daily/Silver/Level020.json
+- Assets/Levels/Daily/Silver/Image032.bytes
+- Assets/Levels/Daily/Silver/Image002.bytes
+- Assets/Levels/Daily/Silver/Level018.json
+- Assets/Levels/Daily/Silver/Image037.bytes
+- Assets/Levels/Daily/Silver/Image008.bytes
+- Assets/Levels/Daily/Silver/Level045.json
+- Assets/Levels/Daily/Silver/Level010.json
+- Assets/Levels/Daily/Silver/Level041.json
+- Assets/Levels/Daily/Silver/Image009.bytes
+- Assets/Levels/Daily/Silver/Level035.json
+- Assets/Levels/Daily/Silver/Image022.bytes
+- Assets/Levels/Daily/Silver/Level030.json
+- Assets/Levels/Daily/Silver/Level007.json
+- Assets/Levels/Daily/Silver/Level024.json
+- Assets/Levels/Daily/Silver/Level049.json
+- Assets/Levels/Daily/Silver/Level044.json
+- Assets/Levels/Daily/Silver/Image023.bytes
+- Assets/Levels/Daily/Silver/Image018.bytes
+- Assets/Levels/Daily/Silver/Image034.bytes
+- Assets/Levels/Daily/Silver/Level013.json
+- Assets/Levels/Daily/Silver/Level014.json
+- Assets/Levels/Daily/Silver/Image044.bytes
+- Assets/Levels/Daily/Silver/Image020.bytes
+Dependencies: []

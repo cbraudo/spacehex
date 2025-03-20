@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 457421007
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a159a1edf85d09bfee9e8f0e756ae8fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a159a1edf85d09bfee9e8f0e756ae8fa
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Levels/Weekly/World202315/Level001.json
+- Assets/Levels/Weekly/World202315/Level007.json
+- Assets/Levels/Weekly/World202315/Level002.json
+- Assets/Levels/Weekly/World202315/Level004.json
+- Assets/Levels/Weekly/World202315/ImageWeeklyLarge.bytes
+- Assets/Levels/Weekly/World202315/Level005.json
+- Assets/Levels/Weekly/World202315/Level006.json
+- Assets/Levels/Weekly/World202315/Level003.json
+Dependencies: []

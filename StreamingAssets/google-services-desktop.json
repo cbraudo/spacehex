@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "789269812519",
+    "firebase_url": "https://hexa-jigsaw-puzzle.firebaseio.com",
+    "project_id": "hexa-jigsaw-puzzle",
+    "storage_bucket": "hexa-jigsaw-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789269812519:android:589a14c122c7fdcb",
+        "android_client_info": {
+          "package_name": "jigsaw.hexa.boombox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789269812519-sl9fko88ul6al6h6orrqh0edqq18d6dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADURxu-QCkWmA30PvVvOpBqQqkJbQYdog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789269812519-sl9fko88ul6al6h6orrqh0edqq18d6dg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "789269812519-k8pq1c89nmrph75806lkrt0v2ho74ntg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.jigsaw.hexa.boombox",
+                "app_store_id": "1475069754"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5314079808457787~2735601797"
+    }
+  ],
+  "configuration_version": "1"
+}

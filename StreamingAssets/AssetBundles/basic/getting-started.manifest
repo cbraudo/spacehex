@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2395185505
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ebaf5ca3dc6a5a052eafeea7a0a087c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3ebaf5ca3dc6a5a052eafeea7a0a087c
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Levels/Basic/GettingStarted/Image003.bytes
+- Assets/Levels/Basic/GettingStarted/Level003.json
+- Assets/Levels/Basic/GettingStarted/Image001.bytes
+- Assets/Levels/Basic/GettingStarted/Image002.bytes
+- Assets/Levels/Basic/GettingStarted/Level002.json
+- Assets/Levels/Basic/GettingStarted/Level001.json
+Dependencies: []
